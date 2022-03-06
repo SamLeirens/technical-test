@@ -1,0 +1,15 @@
+{
+  "Title": "Title",
+  "Type": "Type",
+  "Date": "Date",
+  "Description": "Description",
+  "title": "Titel",
+  "type": "Type",
+  "date": "Date",
+  "description": "Description",
+  "startDate": "Start Date",
+  "endDate": "End Date",
+  "error": {
+    "required": "This field is required"
+  }
+}
